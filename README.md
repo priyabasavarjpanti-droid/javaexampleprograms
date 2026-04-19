@@ -1,4 +1,4 @@
-listinterface op:https://github.com/user-attachments/assets/3d2efba9-de17-4bd3-aea6-9f0fd992ce5a
+elistinterface op:https://github.com/user-attachments/assets/3d2efba9-de17-4bd3-aea6-9f0fd992ce5a
 
 
 color "Red" is available or not op: https://github.com/user-attachments/assets/856e6871-8bc7-48d2-8b44-4ded5a280b6a 
@@ -17,5 +17,7 @@ ArrayList object by using remove by index o/p: https://github.com/user-attachmen
 
 specified position ( 2nd) using iterator o/p :https://github.com/user-attachments/assets/bc0bffe1-c1d6-42b3-b1b1-e7a34f559869
 
-
 iterate through all elements in a linked list o/p: https://github.com/user-attachments/assets/04f47ce9-5692-48a8-b44e-9c2fd1a9214c 
+
+iterate a linked list in reverse order o/p :https://github.com/user-attachments/assets/9fd94da2-d2e6-42c0-8aaf-e8a590dc2b30
+
