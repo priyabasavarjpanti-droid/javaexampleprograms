@@ -63,7 +63,8 @@
 
 5a.  countrylist o/p :https://github.com/user-attachments/assets/630a5eb7-d184-492b-a938-89f76cd7b7a6 
 
-5b.
+5b.  RED, BLUE and GREEN o/p :  https://github.com/user-attachments/assets/939823b7-de45-4120-9bff-1405f2a0b7b6 
+
 
 
 
