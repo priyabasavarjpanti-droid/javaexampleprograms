@@ -36,6 +36,10 @@ b.countOccurrences() o/p: https://github.com/user-attachments/assets/0b682d84-38
 
 c.reverseString() o/p: https://github.com/user-attachments/assets/9469442b-4a65-446c-9f8d-5e59eb089555 
 
+d.palindraomecheck o/p: https://github.com/user-attachments/assets/ab76241d-a37c-40e3-a880-109fe92d7ae3 
+
+
+
 
 
 
