@@ -46,6 +46,10 @@
 
 
 2. stringTurncate o/p: https://github.com/user-attachments/assets/38388f3b-97f0-4014-9fb1-8e0078976ed6 
+ 
+3.isNumeric() O/P:  https://github.com/user-attachments/assets/3fe6cb3d-aea7-423c-bd8e-b4139e9f276b 
+
+
 
 
 
