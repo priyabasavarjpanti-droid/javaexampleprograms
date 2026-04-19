@@ -25,4 +25,8 @@
 
 5.swaps two elements ( first and third elements ) in a linked list o/p: https://github.com/user-attachments/assets/f919c29f-fa28-4219-ae56-16e8b010c61a 
 
+2a.o/p:  https://github.com/user-attachments/assets/36815b94-3d21-4bbc-9183-383107d27952 and 
+ https://github.com/user-attachments/assets/70dae60c-ee9b-4312-bd80-d0f8d01bb587 
+
+
 
