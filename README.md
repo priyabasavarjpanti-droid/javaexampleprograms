@@ -30,5 +30,9 @@
 
 2b.o/p:  https://github.com/user-attachments/assets/f1fbf982-faed-4279-bc92-64262c022192 
 
+3a.isNullOrEmpty() o/p: https://github.com/user-attachments/assets/31b25621-cba3-4dd9-a54c-c796b2c2da0d
+
+
+
 
 
