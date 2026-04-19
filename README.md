@@ -42,6 +42,10 @@
 
 5.removeWhitespace() o/p: https://github.com/user-attachments/assets/372ec779-e720-4094-9b3a-78c70f7e21a1 
 
+3c.1 capitalizeWords() o/p:https://github.com/user-attachments/assets/77f743f6-3eb9-4efe-9a69-01a056ca01fb 
+
+
+
 
 
 
