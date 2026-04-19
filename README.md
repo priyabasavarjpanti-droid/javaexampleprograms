@@ -65,6 +65,10 @@
 
 5b.  RED, BLUE and GREEN o/p :  https://github.com/user-attachments/assets/939823b7-de45-4120-9bff-1405f2a0b7b6 
 
+5c. countrycapital : https://github.com/user-attachments/assets/fad001be-114c-49b7-88e5-f3501d051274 
+
+
+
 
 
 
