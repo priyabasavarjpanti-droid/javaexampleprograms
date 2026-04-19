@@ -21,3 +21,6 @@ iterate through all elements in a linked list o/p: https://github.com/user-attac
 
 iterate a linked list in reverse order o/p :https://github.com/user-attachments/assets/9fd94da2-d2e6-42c0-8aaf-e8a590dc2b30
 
+insert the specified element at the end of a linked list o/p : https://github.com/user-attachments/assets/a49aa014-b068-4181-aa6d-ecdd1d832c8f 
+
+
