@@ -30,13 +30,19 @@
 
 2b.o/p:  https://github.com/user-attachments/assets/f1fbf982-faed-4279-bc92-64262c022192 
 
-3a.isNullOrEmpty() o/p: https://github.com/user-attachments/assets/31b25621-cba3-4dd9-a54c-c796b2c2da0d
+3a. https://github.com/user-attachments/assets/36815b94-3d21-4bbc-9183-383107d27952 and  https://github.com/user-attachments/assets/70dae60c-ee9b-4312-bd80-d0f8d01bb587 
 
-b.countOccurrences() o/p: https://github.com/user-attachments/assets/0b682d84-382a-4bf2-82f3-b99201349d72 
+3b.1.isNullOrEmpty() o/p: https://github.com/user-attachments/assets/31b25621-cba3-4dd9-a54c-c796b2c2da0d
 
-c.reverseString() o/p: https://github.com/user-attachments/assets/9469442b-4a65-446c-9f8d-5e59eb089555 
+2.countOccurrences() o/p: https://github.com/user-attachments/assets/0b682d84-382a-4bf2-82f3-b99201349d72 
 
-d.palindraomecheck o/p: https://github.com/user-attachments/assets/ab76241d-a37c-40e3-a880-109fe92d7ae3 
+3.reverseString() o/p: https://github.com/user-attachments/assets/9469442b-4a65-446c-9f8d-5e59eb089555 
+
+4.palindraomecheck o/p: https://github.com/user-attachments/assets/ab76241d-a37c-40e3-a880-109fe92d7ae3 
+
+5.removeWhitespace() o/p: https://github.com/user-attachments/assets/372ec779-e720-4094-9b3a-78c70f7e21a1 
+
+
 
 
 
