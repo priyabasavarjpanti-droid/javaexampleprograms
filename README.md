@@ -23,4 +23,6 @@
 
 4.insert the specified element at the end of a linked list o/p : https://github.com/user-attachments/assets/a49aa014-b068-4181-aa6d-ecdd1d832c8f 
 
+5.swaps two elements ( first and third elements ) in a linked list o/p: https://github.com/user-attachments/assets/f919c29f-fa28-4219-ae56-16e8b010c61a 
+
 
