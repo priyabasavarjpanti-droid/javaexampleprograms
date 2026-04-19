@@ -67,6 +67,8 @@
 
 5c. countrycapital : https://github.com/user-attachments/assets/fad001be-114c-49b7-88e5-f3501d051274 
 
+5d.colorpanel o/p: https://github.com/user-attachments/assets/f3670d23-9868-48a0-8bdd-11f85ac99680 
+
 
 
 
